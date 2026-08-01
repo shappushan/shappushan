@@ -4,3 +4,5 @@ if you ever block me for something i did in the past, sorry ! i make mistakes
 
 check out these chuds . 
 [mafioso loverr .](https://github.com/Ophealitz) and the [chuddie dee LOVER](https://github.com/blehpigsterr)
+
+also never cover me except for cuddles ihate being covered
