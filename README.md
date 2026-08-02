@@ -1,17 +1,10 @@
-<img width="735" height="245" alt="image" src="https://github.com/user-attachments/assets/f6ea2260-0301-4242-a8ee-d27f39d85c69" />
-
-<img width="888" height="869" alt="image" src="https://github.com/user-attachments/assets/c314f832-74f7-41ec-9114-816e7fe538c2" />
+<img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/bbd9821d-95e4-4eab-b6cf-0b01d64e15f0" />
 
 
+<img width="759" height="759" alt="image" src="https://github.com/user-attachments/assets/8d0456cf-2158-46b5-9a6e-33bf69d6d53b" />
 
-[<img width="235" height="83" alt="image" src="https://github.com/user-attachments/assets/95ec8b1f-ebda-4674-8bc7-78191b422e9d" />
-](https://ppathetic.atabook.org/)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=shappuu-pup&label=cherry%20leaves%20.&labelColor=%23d0aeae&countColor=%23818176&style=plastic&labelStyle=lower)
+<img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/a2551c7d-a2ff-4d5c-b4ea-f7507e3bb5e6" />
 
-check out these chuds . 
-[mafioso loverr .](https://github.com/Ophealitz) and the [chuddie dee LOVER](https://github.com/blehpigsterr)
-
-<img width="735" height="245" alt="image" src="https://github.com/user-attachments/assets/eba5717f-16c3-481c-b9ca-05d1f8b60351" />
-
+still a wip shoo shoo go away
 
