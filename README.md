@@ -12,3 +12,4 @@
 
 still a wip shoo shoo go away
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=shappushan&label=skippers%20.&labelColor=%23fff6d9&countColor=%23fffbef&style=flat-square)
