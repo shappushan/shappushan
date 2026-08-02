@@ -7,4 +7,5 @@ check out these chuds .
 
 also never cover me except for cuddles ihate being covered
 
-[<img width="235" height="83" alt="image" src="https://github.com/user-attachments/assets/032fd659-e4b3-4509-838a-dee83c5ddb53" />](https://ppathetic.atabook.org/)
+[<img width="235" height="83" alt="image" src="https://github.com/user-attachments/assets/95ec8b1f-ebda-4674-8bc7-78191b422e9d" />
+](https://ppathetic.atabook.org/)
