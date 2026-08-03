@@ -13,3 +13,7 @@
 still a wip shoo shoo go away
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=shappushan&label=skippers%20.&labelColor=%23fff6d9&countColor=%23fffbef&style=flat-square)
+
+blushes . thank you .. [pt medals](https://github.com/pt-medals)
+
+<img width="325" height="96" alt="image" src="https://github.com/user-attachments/assets/0619d096-7c83-4e40-89c7-cbc92f237f4b" />
