@@ -1,11 +1,14 @@
-<img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/c244123a-f47d-455a-bc6e-cf1145184239" />
+<img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/3e4f29c1-9f69-4802-be6b-16e2e3480f46" />
 
-<img width="759" height="759" alt="image" src="https://github.com/user-attachments/assets/696082ff-97d8-4515-b619-c3033dc18627" />
+
+<img width="759" height="759" alt="image" src="https://github.com/user-attachments/assets/139e0541-c8a4-4294-bd79-9e256d7234ed" />
+
 
 [<img width="235" height="83" alt="image" src="https://github.com/user-attachments/assets/acc1b235-6c7f-4945-bbfb-47702abd79f3" />
 ](https://ppathetic.atabook.org/)
 
-<img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/444cfe8b-0519-4db8-bd82-2972a1853077" />
+<img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/d7082240-0290-4d30-ba92-6c7f76ee2e6e" />
+
 
 
 .
