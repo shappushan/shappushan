@@ -1,4 +1,5 @@
-<img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/7b6b4f7c-b649-47e5-9398-1544aabb7bbf" />
+<img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/cbdc48cf-27e2-48c7-9e24-a981b5309483" />
+
 
 
 
@@ -8,7 +9,8 @@ ${\color{#0D1017}\text{space}}$ ${\color{#0D1017}\text{space}}$ <img width="989"
 [<img width="235" height="83" alt="image" src="https://github.com/user-attachments/assets/acc1b235-6c7f-4945-bbfb-47702abd79f3" />
 ](https://ppathetic.atabook.org/)
 
-<img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/50a1a899-bbfc-4241-bc20-0140b38b03cd" />
+<img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/02d15828-3d09-4efc-8b63-5f810180738a" />
+
 
 
 
