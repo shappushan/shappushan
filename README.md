@@ -1,4 +1,4 @@
-<img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/739a0d4e-53aa-400c-a572-8c73463582e5" />
+<img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/d1138642-2939-4b1f-a213-eb06cd2f4340" />
 
 <img width="989" height="597" alt="image" src="https://github.com/user-attachments/assets/9da6b9ea-b3f3-4b4e-a8f7-de4de2c30f82" />
 
@@ -6,7 +6,8 @@
 ${\color{#0D1017}\text{space}}$ ${\color{#0D1017}\text{space}}$ ${\color{#0D1017}\text{space}}$ [<img width="235" height="83" alt="image" src="https://github.com/user-attachments/assets/8845afe7-0f96-4d43-a3c2-88a9530f53f7" />
 ](https://ppathetic.atabook.org/)
 
-<img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/e40854da-faa5-4cc5-a918-8ae2ed67176b" />
+<img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/6e129b86-c5d5-460e-a58d-34f74338a5ea" />
+
 
 
 
