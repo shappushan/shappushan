@@ -1,6 +1,6 @@
 <img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/d1138642-2939-4b1f-a213-eb06cd2f4340" />
 
-<p align=center> ${\color{#dec648}\text{pony}}$${\color{#8c2016}\text{towns}}$ ${\color{#8c2016}\text{killdroid}}$ ${\color{#a86e28}\text{and}}$ ${\color{#dec648}\text{verity.}}$ </p>
+<p align=center> ${\color{#dec648}\text{pony}}$ ${\color{#8c2016}\text{towns}}$ ${\color{#8c2016}\text{killdroid}}$ ${\color{#a86e28}\text{and}}$ ${\color{#dec648}\text{verity.}}$ </p>
 
 
 <img width="989" height="597" alt="image" src="https://github.com/user-attachments/assets/9da6b9ea-b3f3-4b4e-a8f7-de4de2c30f82" />
