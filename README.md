@@ -3,9 +3,8 @@
 
 <p align=center> ${\color{#dec648}\text{pony}}$ ${\color{#dec648}\text{towns}}$ ${\color{#8c2016}\text{killdroid}}$ ${\color{#a86e28}\text{and}}$ ${\color{#dec648}\text{verity.}}$ </p>
 
-
-<img width="989" height="597" alt="image" src="https://github.com/user-attachments/assets/9da6b9ea-b3f3-4b4e-a8f7-de4de2c30f82" />
-
+<p align=center> <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/d3d95935-1219-4c48-bd8c-05ef4bdd2603" />
+ </p>
 
 
 
