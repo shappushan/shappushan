@@ -8,8 +8,7 @@
 
 
 
-${\color{#0D1017}\text{space}}$ ${\color{#0D1017}\text{space}}$ ${\color{#0D1017}\text{space}}$ [<img width="235" height="83" alt="image" src="https://github.com/user-attachments/assets/8845afe7-0f96-4d43-a3c2-88a9530f53f7" />
-](https://ppathetic.atabook.org/)
+[ata book heh](https://ppathetic.atabook.org/)
 
 <img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/05e69cc0-b928-492a-8128-8c28a1f05a66" />
 
