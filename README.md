@@ -6,7 +6,7 @@
 <p align=center> <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/d3d95935-1219-4c48-bd8c-05ef4bdd2603" />
  </p>
 
-[atabook](https://ppathetic.atabook.org/)
+[book](https://ppathetic.atabook.org/)
 
 <img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/05e69cc0-b928-492a-8128-8c28a1f05a66" />
 
