@@ -7,7 +7,7 @@
 <p align=center> <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/6e71b850-aa97-48fe-9195-b18f438eb1c2" />
  </p>
 
-<p align=center>[sign my atabook](https://ppathetic.atabook.org/) </p>
+[sign my atabook](https://ppathetic.atabook.org/)
 
 <img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/05e69cc0-b928-492a-8128-8c28a1f05a66" />
 
