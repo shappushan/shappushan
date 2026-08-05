@@ -8,7 +8,7 @@
 
 
 
-<p align=center>[ata book heh](https://ppathetic.atabook.org/)<p>
+[ata book heh](https://ppathetic.atabook.org/)
 
 <img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/05e69cc0-b928-492a-8128-8c28a1f05a66" />
 
