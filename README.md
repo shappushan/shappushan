@@ -12,5 +12,3 @@ ${\color{#0D1017}\text{ooooooooooooooooooo}}$ ${\color{#0D1017}\text{space}}$ ${
 ${\color{#0D1017}\text{ooooooooooooooooooo}}$ ${\color{#0D1017}\text{space}}$ ${\color{#0D1017}\text{ooooooooo}}$  ![Visitors](https://api.visitorbadge.io/api/visitors?path=shappushan&label=dear%20skippers%20&labelColor=%23dec648&countColor=%23755f3d&style=flat-square)
 
 <img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/05e69cc0-b928-492a-8128-8c28a1f05a66" />
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=shappushan&label=skippers%20.&labelColor=%23fff6d9&countColor=%23fffbef&style=flat-square)
