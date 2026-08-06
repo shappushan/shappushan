@@ -7,7 +7,7 @@
 <p align=center> <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/6e71b850-aa97-48fe-9195-b18f438eb1c2" />
  </p>
 
-${\color{#0D1017}\text{ooooooooooooooooooo}}$ ${\color{#0D1017}\text{space}}$ [sign my atabook](https://ppathetic.atabook.org/) ${\color{#0D1017}\text{eeeeeeeeeeee}}$ [straw , check for more info](https://shappii.straw.page)
+${\color{#0D1017}\text{ooooooooooooooooooo}}$ ${\color{#0D1017}\text{space}}$ ${\color{#0D1017}\text{spac}}$ [sign my atabook](https://ppathetic.atabook.org/) ${\color{#0D1017}\text{eeeeeeeeeeee}}$ [straw , check for more info](https://shappii.straw.page)
 
 <img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/05e69cc0-b928-492a-8128-8c28a1f05a66" />
 
