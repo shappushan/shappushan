@@ -9,7 +9,7 @@
 
 ${\color{#0D1017}\text{ooooooooooooooooooo}}$ ${\color{#0D1017}\text{space}}$ ${\color{#0D1017}\text{ooooooooo}}$ [sign my atabook](https://ppathetic.atabook.org/) ${\color{#0D1017}\text{eeeeeeeeeeee}}$ [straw , check for more info](https://shappii.straw.page)
 
-<p align=center> ![Visitors](https://api.visitorbadge.io/api/visitors?path=shappushan&label=dear%20skippers%20&labelColor=%23dec648&countColor=%23755f3d&style=flat-square) </p>
+${\color{#0D1017}\text{ooooooooooooooooooo}}$ ${\color{#0D1017}\text{space}}$ ${\color{#0D1017}\text{ooooooooo}}$  ![Visitors](https://api.visitorbadge.io/api/visitors?path=shappushan&label=dear%20skippers%20&labelColor=%23dec648&countColor=%23755f3d&style=flat-square)
 
 <img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/05e69cc0-b928-492a-8128-8c28a1f05a66" />
 
