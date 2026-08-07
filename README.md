@@ -17,4 +17,6 @@ ${\color{#0D1017}\text{ooooooooooooooooooo}}$ ${\color{#0D1017}\text{space}}$ ${
 
 <p align=center> ${\color{#8c2016}\text{if}}$ ${\color{#8c2016}\text{i}}$ ${\color{#8c2016}\text{ever}}$ ${\color{#8c2016}\text{int}}$ ${\color{#8c2016}\text{with}}$ ${\color{#8c2016}\text{a}}$ ${\color{#8c2016}\text{bad}}$ ${\color{#8c2016}\text{person}}$ ${\color{#8c2016}\text{let}}$ ${\color{#8c2016}\text{me}}$ ${\color{#8c2016}\text{know}}$ </p>
 
+<p align=center> ${\color{#dec648}\text{i}}$ ${\color{#dec648}\text{am}}$ ${\color{#dec648}\text{a}}$ ${\color{#dec648}\text{minor,}}$ ${\color{#dec648}\text{so}}$ ${\color{#dec648}\text{becareful}}$ ${\color{#dec648}\text{on}}$ ${\color{#dec648}\text{what}}$ ${\color{#dec648}\text{you}}$ ${\color{#dec648}\text{say.}}$ </p>
+
 <img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/05e69cc0-b928-492a-8128-8c28a1f05a66" />
