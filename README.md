@@ -15,4 +15,6 @@ ${\color{#0D1017}\text{ooooooooooooooooooo}}$ ${\color{#0D1017}\text{space}}$ ${
 
 ${\color{#0D1017}\text{ooooooooooooooooooo}}$ ${\color{#0D1017}\text{space}}$ ${\color{#0D1017}\text{oooooooooooo}}$ ${\color{#0D1017}\text{oo}}$ [pt-medals](https://github.com/pt-medals) [title-town](https://github.com/title-town) [characters-pt](https://github.com/charactersofpt)
 
+<p align=center> ${\color{#8c2016}\text{if}}$ ${\color{#8c2016}\text{i}}$ ${\color{#8c2016}\text{ever}}$ ${\color{#8c2016}\text{int}}$ ${\color{#8c2016}\text{with}}$ ${\color{#8c2016}\text{a}}$ ${\color{#8c2016}\text{bad}}$ ${\color{#8c2016}\text{person}}$ ${\color{#8c2016}\text{let}}$ ${\color{#8c2016}\text{me}}$ ${\color{#8c2016}\text{know}}$ </p>
+
 <img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/05e69cc0-b928-492a-8128-8c28a1f05a66" />
