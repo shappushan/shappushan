@@ -1,7 +1,7 @@
 <img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/33069dcb-338f-4ac6-8445-6f77ad3ec436" />
 
 
-<p align=center> ${\color{#dec648}\text{pony}}$ ${\color{#dec648}\text{towns}}$ ${\color{#8c2016}\text{killdroid}}$ ${\color{#ccc5ac}\text{and}}$ ${\color{#dec648}\text{verity.}}$ </p>
+<p align=center> ${\color{#dec648}\text{pony}}$ ${\color{#8c2016}\text{town}}$ ${\color{#dec648}\text{'s}}$ ${\color{#8c2016}\text{killdroid}}$ ${\color{#ccc5ac}\text{and}}$ ${\color{#dec648}\text{verity.}}$ </p>
 
 
 <p align=center> <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/6e71b850-aa97-48fe-9195-b18f438eb1c2" />
