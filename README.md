@@ -19,6 +19,6 @@ ${\color{#0D1017}\text{ooooooooooooooooooo}}$ ${\color{#0D1017}\text{space}}$ ${
 
 <p align=center> ${\color{#dec648}\text{i}}$ ${\color{#dec648}\text{am}}$ ${\color{#dec648}\text{a}}$ ${\color{#dec648}\text{minor,}}$ ${\color{#dec648}\text{so}}$ ${\color{#dec648}\text{becareful}}$ ${\color{#dec648}\text{on}}$ ${\color{#dec648}\text{what}}$ ${\color{#dec648}\text{you}}$ ${\color{#dec648}\text{say.}}$ </p>
 
-<p align=center> ${\color{#8c2016}\text{song}}$ ${\color{#8c2016}\text{of}}$ ${\color{#8c2016}\text{the}}$ ${\color{#8c2016}\text{day}}$ ${\color{#8c2016}\text{that}}$ ${\color{#8c2016}\text{i}}$ ${\color{#8c2016}\text{like.}}$ ${\color{#dec648}\text{larping}$ ${\color{#ccc5ac}\text{the}}$ ${\color{#dec648}\text{rooms.}}$ </p>
+<p align=center> ${\color{#8c2016}\text{song}}$ ${\color{#8c2016}\text{of}}$ ${\color{#8c2016}\text{the}}$ ${\color{#8c2016}\text{day}}$ ${\color{#8c2016}\text{that}}$ ${\color{#8c2016}\text{i}}$ ${\color{#8c2016}\text{like.}}$ ${\color{#dec648}\text{:larping}}$ ${\color{#ccc5ac}\text{the}}$ ${\color{#dec648}\text{rooms.}}$ </p>
 
 <img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/05e69cc0-b928-492a-8128-8c28a1f05a66" />
