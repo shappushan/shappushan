@@ -13,6 +13,6 @@ ${\color{#0D1017}\text{ooooooooooooooooooo}}$ ${\color{#0D1017}\text{space}}$ ${
 
 <p align=center> ${\color{#dec648}\text{my}}$ ${\color{#8c2016}\text{nominations}}$ </p>
 
-${\color{#0D1017}\text{ooooooooooooooooooo}}$ ${\color{#0D1017}\text{space}}$ ${\color{#0D1017}\text{oooooooooooo}}$ ${\color{#0D1017}\text{ooo}}$ [pt-medals](https://github.com/pt-medals) [title-town](https://github.com/title-town) [characters-pt](https://github.com/charactersofpt)
+${\color{#0D1017}\text{ooooooooooooooooooo}}$ ${\color{#0D1017}\text{space}}$ ${\color{#0D1017}\text{oooooooooooo}}$ ${\color{#0D1017}\text{oo}}$ [pt-medals](https://github.com/pt-medals) [title-town](https://github.com/title-town) [characters-pt](https://github.com/charactersofpt)
 
 <img width="888" height="255" alt="image" src="https://github.com/user-attachments/assets/05e69cc0-b928-492a-8128-8c28a1f05a66" />
